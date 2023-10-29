@@ -7,7 +7,7 @@ Az **Elden Ring** egy 2022-es akció-szerepjáték, amelyet a FromSoftware fejle
  ---
 
 ### Megjelenés
-> Pontos megjelenési dátuma : 2022. feburár 25.
+> Pontos megjelenési dátuma : 2022. február 25.
  - PC *(Windows)*
  - Playstation
     - *Playstation 4*
